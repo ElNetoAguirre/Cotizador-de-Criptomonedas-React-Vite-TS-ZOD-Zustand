@@ -14,7 +14,7 @@
 
 # Cotizador de Criptomonedas - React + Vite + TypeScript + API
 
-Aplicación creada con [React](https://react.dev/), [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/), [ZOD](https://zod.dev/) y [Zustand](https://www.npmjs.com/package/zustand) como manejador global de estado, la cual es una aplicación para Cotizar diferentes tipos de Criptomonedas (las 20 con mayor margen de transacciones y las de mayor valor) en diferentes monedas en tiempo real, solo tienes que seleccionar el tipo de moneda que deseas y la criptomoneda a cotizar, y la aplicación realizará una consulta a la API de [CryptoCompare](https://www.cryptocompare.com), mostrando la información solicitada, ....... la APP cuenta con validaciones en los campos del formulario, notificaciones personalizadas y uso de Spinners.
+Aplicación creada con [React](https://react.dev/), [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/), [ZOD](https://zod.dev/) y [Zustand](https://www.npmjs.com/package/zustand) como manejador global de estado, la cual es una aplicación para Cotizar diferentes tipos de Criptomonedas (las 20 con mayor margen de transacciones y las de mayor valor) en diferentes monedas en tiempo real, solo tienes que seleccionar el tipo de moneda que deseas y la criptomoneda a cotizar, y la aplicación realizará una consulta a la API de [CryptoCompare](https://www.cryptocompare.com), mostrando la información solicitada, la APP cuenta con notificaciones personalizadas y uso de Spinners.
 
 Algunos de los conceptos utilizados para la generación de ésta App, son:
 
